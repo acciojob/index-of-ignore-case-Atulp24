@@ -2,7 +2,7 @@ function indexOfIgnoreCase(str, subStr) {
 	const lowerStr = str.toLowerCase();
 	const lowerSubStr = subStr.toLowerCase();
 
-	return lowerStr.inderOf(lowerSubStr);
+	return lowerStr.indexOf(lowerSubStr);
 }
 
 // Please do not change the code below
